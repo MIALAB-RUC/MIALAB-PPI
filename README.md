@@ -2,7 +2,7 @@
 
 
 ## Installation
-	There is no installation needed, just make sure the following files is included:
+	There is no installation needed, just make sure the following files are included:
 	(1) extract_features.sh
 	(2) hydro.txt
 	(3) classify_features_by_chain.sh
@@ -11,7 +11,7 @@
 	(6) README.md
 
 ## Externel sofeware tools
-	After installation and before running compute jobs,The following externel sofeware tools is required:
+	After installation and before running computing jobs,The following externel sofeware tools is required:
 	(1) Qcontacts		
 	(2) Naccess
 	(3) Propka31
