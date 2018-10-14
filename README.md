@@ -11,7 +11,7 @@
 	(6) README.md
 
 ## Externel sofeware tools
-	After installation and before running compute jobs,The following externel sofeware tools is required:
+	After installation and before running computing jobs,The following externel sofeware tools is required:
 	(1) Qcontacts		
 	(2) Naccess
 	(3) Propka31
